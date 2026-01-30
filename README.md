@@ -39,6 +39,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/WGabrielCode/LeetCodes/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
@@ -174,6 +175,7 @@
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/WGabrielCode/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0435-non-overlapping-intervals) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
@@ -221,6 +223,7 @@
 | [0135-candy](https://github.com/WGabrielCode/LeetCodes/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
@@ -253,6 +256,7 @@
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/WGabrielCode/LeetCodes/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/WGabrielCode/LeetCodes/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/WGabrielCode/LeetCodes/tree/master/0464-can-i-win) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
