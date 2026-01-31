@@ -5,7 +5,7 @@ class Solution:
         lt = points[0][1]
         for i in range( 1 , len( points ) ) :
             a , b = points[i]
-            if b > lt and a > lt :
+            if a > lt :
                 lt = b 
                 cnt += 1
         return cnt
