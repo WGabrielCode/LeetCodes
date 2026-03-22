@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/WGabrielCode/LeetCodes/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/WGabrielCode/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/WGabrielCode/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/WGabrielCode/LeetCodes/tree/master/0283-move-zeroes) |
@@ -444,6 +445,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0216-combination-sum-iii) |
 | [0638-shopping-offers](https://github.com/WGabrielCode/LeetCodes/tree/master/0638-shopping-offers) |
 ## Bitmask
 |  |
