@@ -4,7 +4,7 @@ class Solution:
         if len( word1 ) != len( word2 ) :
             return False 
         
-        from collections import defaultdict, Counter
+        from collections import Counter
         
         cnt1 = Counter( word1 ) 
         cnt2 = Counter( word2 ) 
@@ -13,7 +13,7 @@ class Solution:
             return False 
 
         if sorted( cnt1.values() ) == sorted( cnt2.values() ) :
-            return  True # sorted( cnt1.values() ) , sorted( cnt2.values() )
+            return  True
 
         return False 
         
