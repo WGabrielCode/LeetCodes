@@ -94,6 +94,7 @@
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
@@ -118,6 +119,7 @@
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/WGabrielCode/LeetCodes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/2887-sort-vowels-in-a-string) |
@@ -183,6 +185,7 @@
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1488-sort-integers-by-the-power-value](https://github.com/WGabrielCode/LeetCodes/tree/master/1488-sort-integers-by-the-power-value) |
+| [1777-determine-if-two-strings-are-close](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/2887-sort-vowels-in-a-string) |
@@ -215,6 +218,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1777-determine-if-two-strings-are-close) |
 ## Greedy
 |  |
 | ------- |
