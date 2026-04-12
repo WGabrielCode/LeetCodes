@@ -113,6 +113,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/WGabrielCode/LeetCodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/WGabrielCode/LeetCodes/tree/master/0443-string-compression) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
@@ -375,6 +376,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/WGabrielCode/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/WGabrielCode/LeetCodes/tree/master/1628-count-submatrices-with-all-ones) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
