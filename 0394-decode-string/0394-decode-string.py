@@ -1,7 +1,9 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         def rec():
+
             nonlocal i
+
             if i >= len(s):
                 return ""
 
@@ -10,16 +12,11 @@ class Solution:
                 chars += s[i]
                 i += 1
             if chars:
-                # if s[i] == ']':
-                #    i += 1
                 return chars
 
             num = ""
             while i < len(s):
                 a = s[i]
-                # if s[i] == ']':
-                #   i += 1
-                #   return chars
                 if s[i] == '[':
                     i += 1
                     new_response = ""
@@ -31,11 +28,9 @@ class Solution:
                     if i >= len(s) or s[i] == ']':
                         i += 1
                         return chars
-                # if i < len(s) and 'a' <= s[i] <= 'z':
-                #    chars += rec()
                 num += s[i]
                 i += 1
-
+                
         i = 0
         result = []
         while i < len(s):
