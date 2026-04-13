@@ -506,6 +506,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0208-implement-trie-prefix-tree) |
+| [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
 | [3797-design-spreadsheet](https://github.com/WGabrielCode/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
@@ -527,4 +528,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
