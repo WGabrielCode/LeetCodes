@@ -116,6 +116,7 @@
 | [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/WGabrielCode/LeetCodes/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0649-dota2-senate) |
 | [0720-longest-word-in-dictionary](https://github.com/WGabrielCode/LeetCodes/tree/master/0720-longest-word-in-dictionary) |
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -234,6 +235,7 @@
 | [0435-non-overlapping-intervals](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/WGabrielCode/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0649-dota2-senate) |
 | [1448-maximum-69-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
@@ -531,6 +533,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
