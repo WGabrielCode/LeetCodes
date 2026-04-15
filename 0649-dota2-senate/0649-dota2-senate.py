@@ -2,14 +2,9 @@ class Solution:
     def predictPartyVictory(self, senate: str) -> str:
         banned = [False] * len(senate)
 
-        radiants_cnt_alive = 0
-        dires_cnt_alive = 0
-        for idx in range(len(senate)):
-            if senate[idx] == "R":
-                radiants_cnt_alive += 1
-            else:
-                dires_cnt_alive += 1
-
+        radiants_cnt_alive = senate.count("R")
+        dires_cnt_alive = len(senate) - radiants_cnt_alive
+        
         r_bans = 0
         d_bans = 0
         idx = 0
