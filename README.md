@@ -154,6 +154,7 @@
 | [1129-longest-string-chain](https://github.com/WGabrielCode/LeetCodes/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/WGabrielCode/LeetCodes/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/WGabrielCode/LeetCodes/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
@@ -373,6 +374,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/WGabrielCode/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
