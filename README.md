@@ -374,12 +374,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/WGabrielCode/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/WGabrielCode/LeetCodes/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/WGabrielCode/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/WGabrielCode/LeetCodes/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/WGabrielCode/LeetCodes/tree/master/1013-fibonacci-number) |
