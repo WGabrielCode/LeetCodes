@@ -9,17 +9,18 @@ class Solution:
         
         def rec( node, curr_max ):
             
-            res = 0
+            nonlocal result
 
             if node.val >= curr_max :
-                res += 1
+                result += 1
                 curr_max = node.val
 
             if node.left is not None :
-                res += rec( node.left, curr_max )
+                rec( node.left, curr_max )
 
             if node.right is not None :
-                res += rec( node.right, curr_max )
-            return res 
+                rec( node.right, curr_max )
 
-        return rec( root , root.val )
+        result = 0
+        rec( root , root.val )
+        return result
