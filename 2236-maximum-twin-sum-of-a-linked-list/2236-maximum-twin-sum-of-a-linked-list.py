@@ -6,17 +6,30 @@
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
         
-        values = []
-        while head is not None :
-            values.append(head.val)
-            head = head.next
-        
+        if head.next.next is None :
+            return head.val + head.next.val
+         
+        prev = None 
+        curr = head 
+        next = None 
+        quick_curr = head
+
+        while quick_curr is not None and quick_curr.next is not None: 
+            quick_curr = quick_curr.next.next
+            next, curr.next, prev = curr.next, prev, curr
+            curr = next 
+
+        left = prev
+        right = curr
         result = 0
-        for idx in range(len(values)//2) :
-            current_sum = values[idx] + values[-(idx+1)]
-            if current_sum > result :
-                result = current_sum
+
+        while left is not None : 
+            curr_sum = left.val + right.val 
+            if curr_sum > result :
+                result = curr_sum
+            left = left.next 
+            right = right.next
         
-        return result 
+        return result
         
          
