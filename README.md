@@ -399,6 +399,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -412,6 +413,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/WGabrielCode/LeetCodes/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/WGabrielCode/LeetCodes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/WGabrielCode/LeetCodes/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
@@ -530,6 +532,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -541,6 +544,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
