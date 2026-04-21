@@ -394,6 +394,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/WGabrielCode/LeetCodes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/WGabrielCode/LeetCodes/tree/master/0399-evaluate-division) |
+| [0437-path-sum-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/WGabrielCode/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/WGabrielCode/LeetCodes/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -530,6 +531,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -542,6 +544,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
+| [0437-path-sum-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/WGabrielCode/LeetCodes/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1544-count-good-nodes-in-binary-tree) |
