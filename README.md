@@ -27,6 +27,7 @@
 | [0135-candy](https://github.com/WGabrielCode/LeetCodes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/WGabrielCode/LeetCodes/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/WGabrielCode/LeetCodes/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/WGabrielCode/LeetCodes/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/WGabrielCode/LeetCodes/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/WGabrielCode/LeetCodes/tree/master/0198-house-robber) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/WGabrielCode/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
