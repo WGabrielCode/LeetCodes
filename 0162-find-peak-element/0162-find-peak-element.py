@@ -1,10 +1,15 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
-        if len(nums) < 2 or nums[0] > nums[1] :
-            return 0
-        if nums[-1] > nums[-2] :
-            return len(nums) - 1
         
-        nums = sorted( [ (idx,num ) for idx ,num in enumerate( nums )] , key = lambda x : x[1] )
+        def rec( A , i , j ) : 
+            while i != j :
+                mid = ( i + j ) // 2
+                if A[mid + 1] > A[mid] :
+                    i = mid + 1
+                else :
+                    j = mid
+            return i
 
-        return nums[-1][0]
+        n = len( nums )
+        return rec(nums , 0 , n-1 ) 
+
