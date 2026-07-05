@@ -1,47 +1,31 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        
-        from collections import deque
-
-        reverse_path = deque()
-        reverse_p  = None 
-        reverse_q = None 
-    
         def rec( head ) :
-            nonlocal reverse_p , reverse_q, reverse_path
-            if not ( reverse_p is None ) and not ( reverse_q is None ) :
-                return 
             
-            reverse_path.append( head )
-
-            if head is p :
-                reverse_p = reverse_path.copy()
-            elif head is q :
-                reverse_q = reverse_path.copy()
-                
-
+            left , right = None , None
             if head.left is not None :
-                rec( head.left ) 
-                if reverse_path : 
-                    reverse_path.pop()
+                left = rec( head.left ) 
+
             if head.right is not None :
-                rec( head.right )
-                if reverse_path :
-                    reverse_path.pop()
-    
-        rec( root ) 
+                right = rec( head.right )
+            
+            l_type = isinstance( left , TreeNode ) 
+            r_type = isinstance( right, TreeNode )
 
-        while len( reverse_q ) > len( reverse_p ) :
-            reverse_q.pop()
-        while len( reverse_p ) > len( reverse_q ) :
-            reverse_p.pop()
+            current = True if head is p or head is q else False 
+            if current and (l_type or r_type) :
+                return head
+            if l_type and r_type:
+                return head
+            if l_type :
+                return left
+            if r_type :
+                return right
+        
 
-        while reverse_p :
-            p = reverse_p.pop()
-            q = reverse_q.pop() 
-            if p is q :
-                return p
+            if head is p or head is q :
+                return head 
 
-        return None 
-
+        found_flag = False 
+        return rec( root )
         
