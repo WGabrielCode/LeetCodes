@@ -7,22 +7,21 @@
 class Solution:
     def longestZigZag(self, root: Optional[TreeNode]) -> int:
         # dir( 0 - left, 1-right )
-        def rec( head , dir : bool, sum:int ) :
-            sum += 1
+        def rec( head ) :
+            
+            left = rec( head.left )[1] if head.left is not None else 0
+            right = rec( head.right )[0] if head.right is not None else 0
 
-            
-            left_dir = dir if dir else not dir
-            right_dir = not left_dir
-            
-            left_sum = 0 if dir else sum 
-            right_sum = sum if dir else 0
-            
-            result = sum 
-            if head.left is not None :
-                result = max( result, rec( head.left ,left_dir, left_sum ) ) 
-            if head.right is not None :
-                result = max( result,  rec( head.right, right_dir, right_sum) ) 
+            m = max( left, right ) 
+            nonlocal max_path
+            if m > max_path : 
+                max_path = m 
 
-            return result
-                               
-        return max( rec( root , 0 ,  -1 ), rec(root, 1, -1 ) ) 
+            return (left + 1 ,right + 1)
+            
+
+        max_path = 0
+
+        rec( root )
+
+        return max_path
