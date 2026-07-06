@@ -1,25 +1,15 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
 
-        
-        def check_k( k ) :
-            cnt = 0 
-            for num in piles : 
-                cnt += ( num + k - 1) // k
-                if cnt > h :
-                    return False
-            return True 
-
         if len( piles ) == h :
             return max( piles )
 
-        left = ( sum( piles) + h -1 ) // h 
+        left = 1
         right = max( piles ) 
 
         while( left < right ) :
-            mid = ( left + right ) // 2
-            if check_k( mid ) :
-            
+            mid  = ( left + right ) // 2
+            if sum( [math.ceil( num / mid ) for num in piles] ) <= h :
                 right = mid
             else :
                 left = mid + 1
