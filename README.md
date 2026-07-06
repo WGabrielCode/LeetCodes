@@ -53,6 +53,7 @@
 | [0740-delete-and-earn](https://github.com/WGabrielCode/LeetCodes/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/WGabrielCode/LeetCodes/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/WGabrielCode/LeetCodes/tree/master/0830-largest-triangle-area) |
+| [0907-koko-eating-bananas](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/WGabrielCode/LeetCodes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
@@ -341,6 +342,7 @@
 | [0162-find-peak-element](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/WGabrielCode/LeetCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/WGabrielCode/LeetCodes/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/WerminskiGabriel/LeetCodes/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/WerminskiGabriel/LeetCodes/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
