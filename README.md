@@ -71,6 +71,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/WGabrielCode/LeetCodes/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/WGabrielCode/LeetCodes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -160,6 +161,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/WGabrielCode/LeetCodes/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/0948-sort-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -370,6 +373,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/WGabrielCode/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/WerminskiGabriel/LeetCodes/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3336-water-bottles-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/WGabrielCode/LeetCodes/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
